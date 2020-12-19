@@ -2640,6 +2640,14 @@ input, select, textarea {
 		width: 10%;
 	} */
 
+	.skills img {
+		border: 1px solid #ddd;
+		border-radius: 10px;
+		padding: 5px;
+		height: 175px;
+		width: 175px;
+	}
+
 		.image img {
 			display: block;
 			border-radius: 4px;
