@@ -6887,6 +6887,8 @@ input, select, textarea {
 			height: 21.5rem;
 			/* added line above to make smaller*/
 			max-width: 75vw;
+			border: solid;
+			/* border-radius: 10; */
 		}
 
 			.gallery.style2 article .image {
