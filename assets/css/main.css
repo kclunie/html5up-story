@@ -6885,6 +6885,7 @@ input, select, textarea {
 			overflow: hidden;
 			width: 22.5rem;
 			height: 21.5rem;
+			/* added line above to make smaller*/
 			max-width: 75vw;
 		}
 
